@@ -1,0 +1,26 @@
+{
+  "name": "lucionoleto/adminlte",
+  "description": "Dashboard One",
+  "homepage": "https:/www.lucionoleto.com.br",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Lucio Noleto",
+      "email": "lucionoleto@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/lucioln"
+  }
+}
